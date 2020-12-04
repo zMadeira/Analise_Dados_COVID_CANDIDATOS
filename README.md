@@ -15,3 +15,8 @@ Análise e ploting de dados de Covid-19 e relação aos candidatos da região Su
 ![](https://github.com/zMadeira/Analise_Dados_COVID_CANDIDATOS/blob/main/imagem3.PNG)
 
 ![](https://github.com/zMadeira/Analise_Dados_COVID_CANDIDATOS/blob/main/imagem4.PNG)
+
+
+## Link dos arquivos:
+
+https://fatecspgov-my.sharepoint.com/:f:/g/personal/guilherme_silveira4_fatec_sp_gov_br/EuWIQfKAn4ZGjxS9J6rYBgoB10Qd4XEmkkipOh5dvQXvvA?e=mBI9sN
